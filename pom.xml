@@ -25,6 +25,11 @@
         <url>https://github.com/SeunAdelekan/PaystackJava</url>
     </scm>
 
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
     <build>
         <sourceDirectory>src</sourceDirectory>
     </build>
