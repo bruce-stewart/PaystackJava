@@ -5,7 +5,7 @@
     <groupId>me.iyanuadelekan</groupId>
     <artifactId>paystackjava</artifactId>
     <packaging>jar</packaging>
-    <version>1.1.0</version>
+    <version>1.1.1-SNAPSHOT</version>
 
     <name>PaystackJava</name>
     <description>A Java based API wrapper for the Paystack API 💰💸💰💰</description>
